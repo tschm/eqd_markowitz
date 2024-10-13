@@ -29,5 +29,13 @@
         <li><a href="https://web.stanford.edu/~boyd/papers/cvx_ccv_stat_arb.html">Searching (and finding) opportunities for statistical arbitrage with convex programming</a></li>
         <li><a href="https://web.stanford.edu/~boyd/papers/portfolio_of_SAs.html">More about statistical arbitrage</a></li>
     </ul>
+
+    <h2>Software</h2>
+    <ul>
+        <li><a href="https://pypi.org/project/cvxrisk/">Risk models for cvxpy</a></li>
+        <li><a href="https://pypi.org/project/cvxsimulator/">cvxsimulator</a></li>
+        <li><a href="https://pypi.org/project/cvxcovariance/">Estimating covariance matrices</a></li>
+    </ul>
+    
 </body>
 </html>
